@@ -18,6 +18,7 @@ Quick search by "Ctrl + F" with the following keywords:
 - [People and groups](#groups)
 - [Companies, platforms, and sensors](#companies)
 - [Workshops, courses, and tutorials](#workshops)
+- [Software and tools](#software)
 - [Research papers](#papers)
   - [Foundations and sensor models](#foundations-papers)
   - [Computational neuromorphic imaging paradigm](#paradigm-papers)
@@ -36,7 +37,7 @@ Quick search by "Ctrl + F" with the following keywords:
   - [Raw-event and direct-event imaging](#raw-event-papers)
     - [White-light interferometry](#raw-wli-papers)
     - [Wavefront sensing](#raw-wavefront-papers)
-    - [Spectral and photometric imaging](#raw-spectral-papers)
+    - [Polarization, spectral, and photometric imaging](#raw-spectral-papers)
     - [Surface profile and defect inspection](#raw-surface-papers)
     - [Higher-dimensional event imaging](#raw-highdim-papers)
   - [Hardware, multimodal sensing, and future directions](#future-papers)
@@ -122,6 +123,25 @@ This section tracks hardware routes that appear in CNI-related literature. Links
 - Optica Imaging Congress: COSI, DH, ISA, 3D, and related topical meetings have hosted multiple CNI-related papers.
 - CVPR / ICCV / ECCV event-based vision workshops: useful background for event-camera models, representations, and algorithms.
 - OSA / Optica Imaging and Applied Optics Congress: historical venue for early event-sensor optical imaging demonstrations.
+- [Event Vision School](https://edpr.iit.it/events/2026-evs): recurring educational content on event cameras and event-based vision.
+- [Event-based Robot Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision): course material by Guillermo Gallego.
+
+[Back to Top](#toc)
+
+****
+
+<a name="software"></a>
+
+# Software and tools
+
+This section lists general-purpose event-camera tools that can support CNI experiments. Domain-specific code is linked next to the corresponding paper when available.
+
+- [OpenEB](https://github.com/prophesee-ai/openeb): open-source event-based vision software from Prophesee.
+- [jAER](http://jaerproject.org/): Java Address-Event Representation project for event processing.
+- [AEDAT Tools](https://github.com/simbamford/AedatTools/): MATLAB and Python tools for working with AEDAT files.
+- [Loris](https://github.com/neuromorphic-paris/loris): Python package for reading neuromorphic camera files.
+- [Tonic](https://github.com/neuromorphs/tonic): event dataset and transformation library.
+- [AEStream](https://github.com/norse/aestream/): streaming tools for address-event representations from iniVation and Prophesee cameras.
 
 [Back to Top](#toc)
 
@@ -174,6 +194,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 - S. Lin et al., [Autofocus for event cameras](https://doi.org/10.1109/CVPR52688.2022.01586), CVPR, 2022.
 - Z. Ge et al., [Millisecond autofocusing microscopy using neuromorphic event sensing](https://doi.org/10.1016/j.optlaseng.2022.107247), Optics and Lasers in Engineering, 2023.
+- H. Lou, M. Teng, Y. Yang, and B. Shi, [All-in-focus imaging from event focal stack](https://openaccess.thecvf.com/content/CVPR2023/html/Lou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.html), CVPR, 2023.
 - Y. Bao et al., [Improving fast auto-focus with event polarity](https://doi.org/10.1364/OE.489717), Optics Express, 2023.
 - X. Qu et al., [A robust autofocusing method for microscopic imaging based on an event camera](https://doi.org/10.1016/j.optlaseng.2024.108025), Optics and Lasers in Engineering, 2024.
 
@@ -231,8 +252,10 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - A. R. Mangalore, C. S. Seelamantula, and C. S. Thakur, [Neuromorphic fringe projection profilometry](https://doi.org/10.1109/LSP.2020.3016251), IEEE Signal Processing Letters, 2020. [Code](https://github.com/ashishrao7/NFPP)
 - X. Huang, Y. Zhang, and Z. Xiong, [High-speed structured light based 3D scanning using an event camera](https://doi.org/10.1364/OE.437944), Optics Express, 2021.
 - M. Muglikar, G. Gallego, and D. Scaramuzza, [ESL: Event-based structured light](https://doi.org/10.1109/3DV53792.2021.00124), 3DV, 2021. [Project and dataset](http://rpg.ifi.uzh.ch/esl.html), [Code](https://github.com/uzh-rpg/ESL)
+- M. Muglikar, D. P. Moeys, and D. Scaramuzza, [Event guided depth sensing](https://doi.org/10.1109/3DV53792.2021.00048), 3DV, 2021.
 - H. Wang et al., [Enhancing event-based structured light imaging with a single frame](https://doi.org/10.1109/MFI55806.2022.9913845), MFI, 2022.
 - Y. Li et al., [Robust 3D measurement based on neuromorphic event-driven Fourier transform profilometry](https://doi.org/10.2139/ssrn.4204360), SSRN Electronic Journal, 2022.
+- W. Morgenstern et al., [X-maps: Direct depth lookup for event-based structured light systems](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Morgenstern_X-Maps_Direct_Depth_Lookup_for_Event-Based_Structured_Light_Systems_CVPRW_2023_paper.pdf), CVPR Workshops, 2023. [Project and code](https://fraunhoferhhi.github.io/X-maps/)
 
 <a name="accumulation-flow-papers"></a>
 
@@ -273,9 +296,11 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 <a name="raw-spectral-papers"></a>
 
-### Spectral and photometric imaging
+### Polarization, spectral, and photometric imaging
 
 - T. Takatani et al., [Event-based bispectral photometry using temporally modulated illumination](https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf), CVPR, 2021. [Project](https://cigl.iit.tsukuba.ac.jp/portfolio/event-based-bispectral-photometry)
+- H. Mei et al., [Deep polarization reconstruction with PDAVIS events](https://doi.org/10.1109/CVPR52729.2023.02121), CVPR, 2023. [Code](https://github.com/SensorsINI/e2p)
+- M. Muglikar, L. Bauersfeld, D. P. Moeys, and D. Scaramuzza, [Event-based shape from polarization](https://openaccess.thecvf.com/content/CVPR2023/html/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.html), CVPR, 2023. [Project, code, and dataset](https://rpg.ifi.uzh.ch/esfp.html)
 
 <a name="raw-surface-papers"></a>
 
