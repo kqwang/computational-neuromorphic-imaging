@@ -31,10 +31,12 @@ Quick search by "Ctrl + F" with the following keywords:
     - [Single-molecule localization microscopy](#accumulation-smlm-papers)
     - [Light-field microscopy](#accumulation-lfm-papers)
     - [Structured light and surface metrology](#accumulation-surface-papers)
+    - [Flow, Schlieren, and velocimetry](#accumulation-flow-papers)
     - [Neuromorphic holography](#accumulation-holography-papers)
   - [Raw-event and direct-event imaging](#raw-event-papers)
     - [White-light interferometry](#raw-wli-papers)
     - [Wavefront sensing](#raw-wavefront-papers)
+    - [Spectral and photometric imaging](#raw-spectral-papers)
     - [Surface profile and defect inspection](#raw-surface-papers)
     - [Higher-dimensional event imaging](#raw-highdim-papers)
   - [Hardware, multimodal sensing, and future directions](#future-papers)
@@ -224,11 +226,20 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 ### Structured light and surface metrology
 
-- A. R. Mangalore, C. S. Seelamantula, and C. S. Thakur, [Neuromorphic fringe projection profilometry](https://doi.org/10.1109/LSP.2020.3016251), IEEE Signal Processing Letters, 2020.
+- C. Brandli et al., [Adaptive pulsed laser line extraction for terrain reconstruction using a dynamic vision sensor](https://doi.org/10.3389/fnins.2013.00275), Frontiers in Neuroscience, 2014.
+- N. Matsuda, O. Cossairt, and M. Gupta, [MC3D: Motion contrast 3D scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370), ICCP, 2015. [Project](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
+- A. R. Mangalore, C. S. Seelamantula, and C. S. Thakur, [Neuromorphic fringe projection profilometry](https://doi.org/10.1109/LSP.2020.3016251), IEEE Signal Processing Letters, 2020. [Code](https://github.com/ashishrao7/NFPP)
 - X. Huang, Y. Zhang, and Z. Xiong, [High-speed structured light based 3D scanning using an event camera](https://doi.org/10.1364/OE.437944), Optics Express, 2021.
-- M. Muglikar, G. Gallego, and D. Scaramuzza, [ESL: Event-based structured light](https://doi.org/10.1109/3DV53792.2021.00124), 3DV, 2021.
+- M. Muglikar, G. Gallego, and D. Scaramuzza, [ESL: Event-based structured light](https://doi.org/10.1109/3DV53792.2021.00124), 3DV, 2021. [Project and dataset](http://rpg.ifi.uzh.ch/esl.html), [Code](https://github.com/uzh-rpg/ESL)
 - H. Wang et al., [Enhancing event-based structured light imaging with a single frame](https://doi.org/10.1109/MFI55806.2022.9913845), MFI, 2022.
 - Y. Li et al., [Robust 3D measurement based on neuromorphic event-driven Fourier transform profilometry](https://doi.org/10.2139/ssrn.4204360), SSRN Electronic Journal, 2022.
+
+<a name="accumulation-flow-papers"></a>
+
+### Flow, Schlieren, and velocimetry
+
+- S. Shiba, F. Hamann, Y. Aoki, and G. Gallego, [Event-based background-oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188), IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [Project and code](https://github.com/tub-rip/event_based_bos)
+- L. Maya et al., [An evaluation of event-based cameras for particle image velocimetry](https://doi.org/10.1007/s00348-025-04127-5), Experiments in Fluids, 2025.
 
 <a name="accumulation-holography-papers"></a>
 
@@ -259,6 +270,12 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - C. Wang et al., [Tracking the Shack-Hartmann spots using neuromorphic motion compensation](https://doi.org/10.1364/COSI.2023.CTu2B.5), Optica Imaging Congress, 2023.
 - M. Grose, J. D. Schmidt, and K. Hirakawa, [Convolutional neural network for improved event-based Shack-Hartmann wavefront reconstruction](https://doi.org/10.1364/AO.520652), Applied Optics, 2024.
 - C. Wang et al., [Angle-based neuromorphic wave normal sensing](https://doi.org/10.1002/lpor.202400647), Laser and Photonics Reviews, 2025.
+
+<a name="raw-spectral-papers"></a>
+
+### Spectral and photometric imaging
+
+- T. Takatani et al., [Event-based bispectral photometry using temporally modulated illumination](https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf), CVPR, 2021. [Project](https://cigl.iit.tsukuba.ac.jp/portfolio/event-based-bispectral-photometry)
 
 <a name="raw-surface-papers"></a>
 
