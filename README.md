@@ -367,5 +367,13 @@ No dedicated CNI book is listed yet. Candidates on event-based sensing, neuromor
 # Dissertations and thesis
 
 - M. Mahowald, VLSI analogs of neuronal visual processing: a synthesis of form and function, Ph.D. thesis, California Institute of Technology, 1992.
+- P. Lichtsteiner, [An AER temporal contrast vision sensor](https://www.research-collection.ethz.ch/handle/20.500.11850/149539), doctoral thesis, ETH Zurich, 2006.
+- C. P. Brandli, [Event-Based Machine Vision](https://www.research-collection.ethz.ch/bitstreams/15b3c34e-bb2e-4e3f-b804-3353fb835fad/download), doctoral thesis, ETH Zurich, 2015.
+- H. Rebecq, [Event Cameras: From SLAM to High Speed Video](https://rpg.ifi.uzh.ch/docs/PhD19_Rebecq.pdf), Ph.D. thesis, University of Zurich, 2019.
+- C. Scheerlinck, [How to See with an Event Camera](https://openresearch-repository.anu.edu.au/items/7e2d4237-5e41-4f22-8b7f-171c1b07a4a4), Ph.D. thesis, Australian National University, 2021.
+- L. Cordone, [Performance des reseaux de neurones a spikes sur des donnees evenementielles pour des applications automobiles embarquees](https://theses.hal.science/tel-04026653v1), Ph.D. thesis, Universite Cote d'Azur, 2022.
+- Z. Ge, [Neuromorphic event sensing for laser speckle imaging and autofocusing microscopy](https://hub.hku.hk/handle/10722/318404), Ph.D. thesis, The University of Hong Kong, 2022.
+- R. Cao, [Unknown Motion Calibration and Dynamic Imaging Reconstruction](https://escholarship.org/content/qt2xt6f11b/qt2xt6f11b_noSplash_06a2511dd7ab320755889fd55500602b.pdf), Ph.D. dissertation, University of California, Berkeley and University of California, San Francisco, 2024.
+- P. Zhang, [Synergy of dynamic perception and static vision in neuromorphic imaging](https://hub.hku.hk/handle/10722/355614), Ph.D. thesis, The University of Hong Kong, 2024.
 
 [Back to Top](#toc)
