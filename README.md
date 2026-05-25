@@ -118,9 +118,10 @@ Product availability and sensor generations change quickly; links should be veri
 
 # Workshops, courses, and tutorials
 
-- Optica Imaging Congress: COSI, DH, ISA, 3D, and related topical meetings have hosted multiple CNI-related papers.
-- CVPR / ICCV / ECCV event-based vision workshops: useful background for event-camera models, representations, and algorithms.
-- OSA / Optica Imaging and Applied Optics Congress: historical venue for early event-sensor optical imaging demonstrations.
+- [Optica Imaging Congress](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/): includes topical meetings such as [Computational Optical Sensing and Imaging (COSI)](https://www.optica.org/events/congress/imaging_and_applied_optics_congress/program/computational_optical_sensing_and_imaging), Digital Holography and Three-Dimensional Imaging (DH), 3D Imaging, Imaging Systems, and related applied-optics programs.
+- [CVPR Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025/): useful background for event-camera models, representations, algorithms, datasets, and challenges.
+- [NEVI Workshop on Neuromorphic Event-Based Vision at ECCV 2024](https://research.universityofgalway.ie/en/activities/nevi-workshop-on-neuromorphic-event-based-vision-eccv-2024): related workshop on neuromorphic event-based vision, sensing, hardware, and bio-inspired AI.
+- [OSA / Optica Imaging and Applied Optics Congress archive](https://optica-org-web-afd-f9abf4byhbacgfgk.z02.azurefd.net/optica/media/osa.media/meetings/archives/2018/2018_imaging_program.pdf?t=636663965651293431): historical source for COSI, DH, 3D imaging, wavefront sensing, spectral imaging, high-speed imaging, and computational microscopy sessions.
 - [Event Vision School](https://edpr.iit.it/events/2026-evs): recurring educational content on event cameras and event-based vision.
 - [Event-based Robot Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision): course material by Guillermo Gallego.
 
