@@ -97,17 +97,27 @@ Please use the following guidelines:
 
 # Companies, platforms, and sensors
 
-This section tracks hardware routes that appear in CNI-related literature. Links point to official or primary product/documentation pages where available.
+This section tracks companies, platforms, and hardware routes that appear in event-based vision and CNI-related literature. Product availability and sensor generations change quickly; links should be verified before purchase or citation.
 
-- [iniVation](https://inivation.com/): event-based neuromorphic vision systems, including DVXplorer and DAVIS cameras.
-- [DAVIS346](https://docs.inivation.com/hardware/current-products/davis346.html): hybrid event and active-pixel frame readout camera from iniVation.
-- [Prophesee Metavision](https://www.prophesee.ai/buy-event-based-products/): event-based sensing products, software, and evaluation kits.
-- [Sony Event-based Vision Sensors](https://www.sony-semicon.com/en/products/is/industry/evs.html): IMX636, IMX637, IMX646, and IMX647 event-based vision sensors developed with Prophesee.
-- [Prophesee IMX636 documentation](https://docs.prophesee.ai/stable/hw/sensors/imx636.html): technical documentation for the Sony/Prophesee IMX636 HD event-based vision sensor.
-- DVS / Dynamic Vision Sensor: asynchronous temporal contrast sensing.
+## Companies working on event-based vision
+
+- [iniVation AG](https://inivation.com/): event-based neuromorphic vision systems, including DVS, DAVIS, and DVXplorer cameras; also provides [DV software](https://docs.inivation.com/software/introduction.html).
+- [iniLabs AG](https://inilabs.com/): neuromorphic technologies and research-oriented hardware/software support.
+- [Prophesee](https://www.prophesee.ai/): event-based vision sensors, Metavision software, evaluation kits, and industrial vision products.
+- [Sony Semiconductor Solutions](https://www.sony-semicon.com/en/products/is/industry/evs.html): event-based vision sensors including IMX636, IMX637, IMX646, and IMX647, developed with Prophesee.
+- [Samsung](https://www.samsung.com/): developer of dynamic vision sensor prototypes and event-based vision technologies reported in the literature.
+- [Insightness AG](http://www.insightness.com/): developer of Silicon Eye event-sensor technology; status and product availability should be verified.
+- [SLAMcore](https://www.slamcore.com/): localization and mapping software company with event-vision relevance through the broader event-based perception ecosystem.
+- [CelePixel](https://www.celepixel.com/): developer of CeleX dynamic vision sensor platforms; status and product availability should be verified.
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/): optical sensor systems and industrial neuromorphic sensing applications.
+
+## Sensors and platform families
+
+- DVS / Dynamic Vision Sensor: asynchronous temporal contrast sensing; see iniVation DVS/DAVIS lines.
 - ATIS / Asynchronous Time-based Image Sensor: event-triggered intensity measurement.
-- CeleX series: multimode event-based vision sensors. A stable official product page was not verified.
-- Vidar series: high-speed event-like sensing from ordinary devices. A stable official product page was not verified.
+- DAVIS / Dynamic and Active-pixel Vision Sensor: hybrid event and active-pixel frame readout; see [DAVIS346 documentation](https://docs.inivation.com/hardware/current-products/davis346.html).
+- Prophesee / Sony EVS: industrial event-based vision sensors; see [Prophesee products](https://www.prophesee.ai/buy-event-based-products/) and [IMX636 documentation](https://docs.prophesee.ai/stable/hw/sensors/imx636.html).
+- CeleX series: multimode event-based vision sensors.
 - SPAD-based event processing: photon-counting sensors with event-based processing.
 - Frame-differencing CMOS sensors: event generation from high-speed frame differences.
 - Metasurface event processors: optical-domain spatiotemporal differentiation and event-like processing.
