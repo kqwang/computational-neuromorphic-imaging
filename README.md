@@ -71,21 +71,20 @@ Please use the following guidelines:
 
 ## Asia
 
-- Edmund Y. Lam group (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
-- Kaiqiang Wang group (Northwestern Polytechnical University). Keywords: computational imaging, optical metrology, neuromorphic imaging.
-- Lei Tian group (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
-- Chetan Singh Thakur group (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
+- [Edmund Y. Lam / Imaging Systems Laboratory](https://isl.eee.hku.hk/) (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
+- [Lei Tian / Computational Imaging Systems Lab](https://www.bu.edu/eng/profile/lei-tian/) (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
+- [Chetan Singh Thakur](https://eecs.iisc.ac.in/people/chetan-singh-thakur/) (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
 
 ## Americas
 
-- Laura Waller group (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
-- Davide Scaramuzza group (University of Zurich / Robotics and Perception Group). Keywords: event-based vision, event-based reconstruction, event representations.
-- Adrian Stern group (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
+- [Laura Waller / Computational Imaging Lab](https://www.laurawaller.com/) (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
+- [Davide Scaramuzza / Robotics and Perception Group](https://rpg.ifi.uzh.ch/) (University of Zurich). Keywords: event-based vision, event-based reconstruction, event representations.
+- [Adrian Stern](https://in.bgu.ac.il/en/engn/electrop/Pages/ResearchersAndResearchAreas.aspx) (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
 
 ## Europe
 
-- Guillermo Gallego group (Technische Universitat Berlin). Keywords: event-based vision, event representations, contrast maximization, structured light.
-- Suliana Manley group (EPFL). Keywords: microscopy, event-driven acquisition, single-molecule localization microscopy.
+- [Guillermo Gallego](https://sites.google.com/view/guillermogallego/research/event-based-vision?authuser=0) (Technische Universitat Berlin). Keywords: event-based vision, event representations, contrast maximization, structured light.
+- [Suliana Manley / Laboratory of Experimental Biophysics](https://www.epfl.ch/labs/leb/) (EPFL). Keywords: microscopy, event-driven acquisition, single-molecule localization microscopy.
 
 [Back to Top](#toc)
 
@@ -95,13 +94,17 @@ Please use the following guidelines:
 
 # Companies, platforms, and sensors
 
-This section tracks hardware routes that appear in CNI-related literature. Links and product details should be verified before new entries are added.
+This section tracks hardware routes that appear in CNI-related literature. Links point to official or primary product/documentation pages where available.
 
+- [iniVation](https://inivation.com/): event-based neuromorphic vision systems, including DVXplorer and DAVIS cameras.
+- [DAVIS346](https://docs.inivation.com/hardware/current-products/davis346.html): hybrid event and active-pixel frame readout camera from iniVation.
+- [Prophesee Metavision](https://www.prophesee.ai/buy-event-based-products/): event-based sensing products, software, and evaluation kits.
+- [Sony Event-based Vision Sensors](https://www.sony-semicon.com/en/products/is/industry/evs.html): IMX636, IMX637, IMX646, and IMX647 event-based vision sensors developed with Prophesee.
+- [Prophesee IMX636 documentation](https://docs.prophesee.ai/stable/hw/sensors/imx636.html): technical documentation for the Sony/Prophesee IMX636 HD event-based vision sensor.
 - DVS / Dynamic Vision Sensor: asynchronous temporal contrast sensing.
 - ATIS / Asynchronous Time-based Image Sensor: event-triggered intensity measurement.
-- DAVIS / Dynamic and Active-pixel Vision Sensor: hybrid event and active-pixel frame readout.
-- CeleX series: multimode event-based vision sensors.
-- Vidar series: high-speed event-like sensing from ordinary devices.
+- CeleX series: multimode event-based vision sensors. A stable official product page was not verified.
+- Vidar series: high-speed event-like sensing from ordinary devices. A stable official product page was not verified.
 - SPAD-based event processing: photon-counting sensors with event-based processing.
 - Frame-differencing CMOS sensors: event generation from high-speed frame differences.
 - Metasurface event processors: optical-domain spatiotemporal differentiation and event-like processing.
@@ -143,7 +146,7 @@ This section tracks hardware routes that appear in CNI-related literature. Links
 
 ## Computational neuromorphic imaging paradigm
 
-- K. Wang, S. Zhu, C. Wang, P. Zhang, Z. Ge, and E. Y. Lam, Computational Neuromorphic Imaging: From Bio-Inspired Events to Quantitative Optical Inversion, review manuscript in preparation.
+This category is reserved for papers that explicitly define, name, or consolidate CNI as an optical physical-inversion paradigm.
 
 [Back to Top](#toc)
 
@@ -290,14 +293,6 @@ This section tracks hardware routes that appear in CNI-related literature. Links
 <a name="review"></a>
 
 # Review / Tutorial papers
-
-## Computational imaging and optical inverse problems
-
-- J. N. Mait, G. W. Euliss, and R. A. Athale, [Computational imaging](https://doi.org/10.1364/AOP.10.000409), Advances in Optics and Photonics, 2018.
-- G. Barbastathis, A. Ozcan, and G. Situ, [On the use of deep learning for computational imaging](https://doi.org/10.1364/OPTICA.6.000921), Optica, 2019.
-- Z. Huang and L. Cao, [Quantitative phase imaging based on holography: trends and new perspectives](https://doi.org/10.1038/s41377-024-01453-x), Light: Science and Applications, 2024.
-- X. Luo et al., [Revolutionizing optical imaging: computational imaging via deep learning](https://doi.org/10.3788/PI.2025.R03), Photonics Insights, 2025.
-- F. Wang, J. W. Czarske, and G. Situ, [Deep learning for computational imaging: from data-driven to physics-enhanced approaches](https://doi.org/10.1117/1.AP.7.5.054002), Advanced Photonics, 2025.
 
 ## Event cameras and neuromorphic vision
 
