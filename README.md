@@ -73,19 +73,17 @@ Please use the following guidelines:
 (Initial list; in alphabetical order by group lead or first listed researcher when practical.)
 
 ## Asia
-
 - [Edmund Y. Lam / Imaging Systems Laboratory](https://isl.eee.hku.hk/) (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
-- [Lei Tian / Computational Imaging Systems Lab](https://www.bu.edu/eng/profile/lei-tian/) (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
 - [Chetan Singh Thakur](https://eecs.iisc.ac.in/people/chetan-singh-thakur/) (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
-
-## Americas
-
-- [Laura Waller / Computational Imaging Lab](https://www.laurawaller.com/) (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
-- [Davide Scaramuzza / Robotics and Perception Group](https://rpg.ifi.uzh.ch/) (University of Zurich). Keywords: event-based vision, event-based reconstruction, event representations.
 - [Adrian Stern](https://in.bgu.ac.il/en/engn/electrop/Pages/ResearchersAndResearchAreas.aspx) (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
 
-## Europe
+## Americas
+- [Laura Waller / Computational Imaging Lab](https://www.laurawaller.com/) (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
+- [Lei Tian / Computational Imaging Systems Lab](https://www.bu.edu/eng/profile/lei-tian/) (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
 
+
+## Europe
+- [Davide Scaramuzza / Robotics and Perception Group](https://rpg.ifi.uzh.ch/) (University of Zurich). Keywords: event-based vision, event-based reconstruction, event representations.
 - [Guillermo Gallego](https://sites.google.com/view/guillermogallego/research/event-based-vision?authuser=0) (Technische Universitat Berlin). Keywords: event-based vision, event representations, contrast maximization, structured light.
 - [Suliana Manley / Laboratory of Experimental Biophysics](https://www.epfl.ch/labs/leb/) (EPFL). Keywords: microscopy, event-driven acquisition, single-molecule localization microscopy.
 
@@ -178,8 +176,9 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - A. Z. Zhu et al., [Unsupervised event-based learning of optical flow, depth, and egomotion](https://doi.org/10.1109/CVPR.2019.00108), CVPR, 2019.
 - C. Scheerlinck et al., [Fast image reconstruction with an event camera](https://doi.org/10.1109/WACV45572.2020.9093366), WACV, 2020.
 - H. Rebecq et al., [High speed and high dynamic range video with an event camera](https://doi.org/10.1109/TPAMI.2019.2963386), IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
-- P. Zhang et al., [Neuromorphic imaging with super-resolution](https://doi.org/10.1109/TCSVT.2024.3482436), IEEE Transactions on Circuits and Systems for Video Technology, 2024.
-- P. Zhang, C. Wang, and E. Y. Lam, [Neuromorphic imaging and classification with graph learning](https://doi.org/10.1016/j.neucom.2023.127010), Neurocomputing, 2024.
+- P. Zhang et al., [Neuromorphic imaging with super-resolution](https://doi.org/10.1109/TCSVT.2024.3482436), IEEE TCSVT, 2025.
+- P. Zhang et al., [Neuromorphic imaging with joint image deblurring and event denoising](https://doi.org/10.1109/TIP.2024.3374074), IEEE TIP, 2024.
+- P. Zhang et al., [Neuromorphic imaging with density-based spatiotemporal denoising](https://doi.org/10.1109/TCI.2023.3281202), IEEE TCI, 2023.
 
 [Back to Top](#toc)
 
@@ -374,6 +373,6 @@ No dedicated CNI book is listed yet. Candidates on event-based sensing, neuromor
 - L. Cordone, [Performance des reseaux de neurones a spikes sur des donnees evenementielles pour des applications automobiles embarquees](https://theses.hal.science/tel-04026653v1), Ph.D. thesis, Universite Cote d'Azur, 2022.
 - Z. Ge, [Neuromorphic event sensing for laser speckle imaging and autofocusing microscopy](https://hub.hku.hk/handle/10722/318404), Ph.D. thesis, The University of Hong Kong, 2022.
 - R. Cao, [Unknown Motion Calibration and Dynamic Imaging Reconstruction](https://escholarship.org/content/qt2xt6f11b/qt2xt6f11b_noSplash_06a2511dd7ab320755889fd55500602b.pdf), Ph.D. dissertation, University of California, Berkeley and University of California, San Francisco, 2024.
-- P. Zhang, [Synergy of dynamic perception and static vision in neuromorphic imaging](https://hub.hku.hk/handle/10722/355614), Ph.D. thesis, The University of Hong Kong, 2024.
+- P. Zhang, [Synergy of dynamic perception and static vision in neuromorphic imaging](https://hub.hku.hk/handle/10722/355614), Ph.D. thesis, The University of Hong Kong, 2025.
 
 [Back to Top](#toc)
