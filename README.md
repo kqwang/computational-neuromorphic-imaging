@@ -225,6 +225,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - Z. Ge et al., [Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601), Applied Optics, 2021.
 - Z. Ge et al., [Event-based laser speckle correlation for micro motion estimation](https://doi.org/10.1364/OL.430419), Optics Letters, 2021.
 - Z. Ge et al., [Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948), Optics Express, 2022.
+- S. Zhu et al., [Efficient non-line-of-sight tracking with computational neuromorphic imaging](https://doi.org/10.1364/OL.530066), Optics Letters, 2024.
 - Y. Cao, S. Zhu, and E. Y. Lam, [Neuromorphic dynamic speckle pattern synthesis for imaging through scattering media](https://doi.org/10.1117/12.3073637), Advanced Optical Imaging Technologies VIII, 2025.
 
 <a name="accumulation-smlm-papers"></a>
@@ -305,7 +306,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 ### Surface profile and defect inspection
 
-- S. Zhu et al., [Efficient non-line-of-sight tracking with computational neuromorphic imaging](https://doi.org/10.1364/OL.530066), Optics Letters, 2024.
+- A.R. Mangalore, et al., [Neuromorphic Fringe Projection Profilometry] (https://doi.org/10.1109/LSP.2020.3016251), IEEE Signal Processing Letters, 2020.
 - S. Zhu et al., [Ultrafast dynamic defect inspection with computational neuromorphic imaging](https://doi.org/10.1002/advs.202510338), Advanced Science, 2025.
 
 <a name="raw-highdim-papers"></a>
