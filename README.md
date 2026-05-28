@@ -176,9 +176,9 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - A. Z. Zhu et al., [Unsupervised event-based learning of optical flow, depth, and egomotion](https://doi.org/10.1109/CVPR.2019.00108), CVPR, 2019.
 - C. Scheerlinck et al., [Fast image reconstruction with an event camera](https://doi.org/10.1109/WACV45572.2020.9093366), WACV, 2020.
 - H. Rebecq et al., [High speed and high dynamic range video with an event camera](https://doi.org/10.1109/TPAMI.2019.2963386), IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
-- P. Zhang et al., [Neuromorphic imaging with super-resolution](https://doi.org/10.1109/TCSVT.2024.3482436), IEEE TCSVT, 2025.
-- P. Zhang et al., [Neuromorphic imaging with joint image deblurring and event denoising](https://doi.org/10.1109/TIP.2024.3374074), IEEE TIP, 2024.
 - P. Zhang et al., [Neuromorphic imaging with density-based spatiotemporal denoising](https://doi.org/10.1109/TCI.2023.3281202), IEEE TCI, 2023.
+- P. Zhang et al., [Neuromorphic imaging with joint image deblurring and event denoising](https://doi.org/10.1109/TIP.2024.3374074), IEEE TIP, 2024.
+- P. Zhang et al., [Neuromorphic imaging with super-resolution](https://doi.org/10.1109/TCSVT.2024.3482436), IEEE TCSVT, 2025.
 
 [Back to Top](#toc)
 
@@ -224,7 +224,6 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - Z. Ge et al., [Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601), Applied Optics, 2021.
 - Z. Ge et al., [Event-based laser speckle correlation for micro motion estimation](https://doi.org/10.1364/OL.430419), Optics Letters, 2021.
 - Z. Ge et al., [Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948), Optics Express, 2022.
-- S. Zhu et al., [Efficient non-line-of-sight tracking with computational neuromorphic imaging](https://doi.org/10.1364/OL.530066), Optics Letters, 2024.
 - Y. Cao, S. Zhu, and E. Y. Lam, [Neuromorphic dynamic speckle pattern synthesis for imaging through scattering media](https://doi.org/10.1117/12.3073637), Advanced Optical Imaging Technologies VIII, 2025.
 
 <a name="accumulation-smlm-papers"></a>
@@ -305,7 +304,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 ### Surface profile and defect inspection
 
-- A.R. Mangalore, et al., [Neuromorphic Fringe Projection Profilometry] (https://doi.org/10.1109/LSP.2020.3016251), IEEE Signal Processing Letters, 2020.
+- S. Zhu et al., [Efficient non-line-of-sight tracking with computational neuromorphic imaging](https://doi.org/10.1364/OL.530066), Optics Letters, 2024.
 - S. Zhu et al., [Ultrafast dynamic defect inspection with computational neuromorphic imaging](https://doi.org/10.1002/advs.202510338), Advanced Science, 2025.
 
 <a name="raw-highdim-papers"></a>
@@ -374,6 +373,6 @@ No dedicated CNI book is listed yet. Candidates on event-based sensing, neuromor
 - L. Cordone, [Performance des reseaux de neurones a spikes sur des donnees evenementielles pour des applications automobiles embarquees](https://theses.hal.science/tel-04026653v1), Ph.D. thesis, Universite Cote d'Azur, 2022.
 - Z. Ge, [Neuromorphic event sensing for laser speckle imaging and autofocusing microscopy](https://hub.hku.hk/handle/10722/318404), Ph.D. thesis, The University of Hong Kong, 2022.
 - R. Cao, [Unknown Motion Calibration and Dynamic Imaging Reconstruction](https://escholarship.org/content/qt2xt6f11b/qt2xt6f11b_noSplash_06a2511dd7ab320755889fd55500602b.pdf), Ph.D. dissertation, University of California, Berkeley and University of California, San Francisco, 2024.
-- P. Zhang, [Synergy of dynamic perception and static vision in neuromorphic imaging](https://hub.hku.hk/handle/10722/355614), Ph.D. thesis, The University of Hong Kong, 2025.
+- P. Zhang, [Synergy of dynamic perception and static vision in neuromorphic imaging](https://hub.hku.hk/handle/10722/355614), Ph.D. thesis, The University of Hong Kong, 2024.
 
 [Back to Top](#toc)
