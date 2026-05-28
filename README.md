@@ -362,7 +362,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 # Books
 
-No dedicated CNI book is listed yet. Candidates on event-based sensing, neuromorphic engineering, computational imaging, optical inverse problems, or biomedical computational microscopy are welcome.
+- S.-C. Liu, T. Delbruck, G. Indiveri, A. Whatley, and R. Douglas, [Event-Based Neuromorphic Systems](https://www.wiley-vch.de/en/areas-interest/engineering/event-based-neuromorphic-systems-978-0-470-01849-1), Wiley, 2015.
 
 [Back to Top](#toc)
 
