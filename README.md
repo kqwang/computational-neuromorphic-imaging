@@ -73,19 +73,26 @@ Please use the following guidelines:
 (Initial list; in alphabetical order by group lead or first listed researcher when practical.)
 
 ## Asia
-- [Edmund Y. Lam / Imaging Systems Laboratory](https://isl.eee.hku.hk/) (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
-- [Chetan Singh Thakur](https://eecs.iisc.ac.in/people/chetan-singh-thakur/) (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
 - [Adrian Stern](https://in.bgu.ac.il/en/engn/electrop/Pages/ResearchersAndResearchAreas.aspx) (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
+- [Boxin Shi / Camera Intelligence Lab](https://camera.pku.edu.cn/) (Peking University). Keywords: computational photography, neuromorphic vision sensors, event focal stack, event-aided imaging.
+- [Chetan Singh Thakur](https://eecs.iisc.ac.in/people/chetan-singh-thakur/) (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
+- [Edmund Y. Lam / Imaging Systems Laboratory](https://isl.eee.hku.hk/) (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
+- [Yoshimitsu Aoki / Aoki Media Sensing Lab](https://aoki-medialab.jp/research-en/) (Keio University). Keywords: event-based Schlieren imaging, flow visualization, event-camera optical measurement.
 
 ## Americas
 - [Laura Waller / Computational Imaging Lab](https://www.laurawaller.com/) (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
 - [Lei Tian / Computational Imaging Systems Lab](https://www.bu.edu/eng/profile/lei-tian/) (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
-
+- [Oliver Cossairt / Computational Photography Lab](https://compphotolab.northwestern.edu/) (Northwestern University). Keywords: computational photography, 3D scanning, event-camera 3D shape measurement, computational imaging.
 
 ## Europe
 - [Davide Scaramuzza / Robotics and Perception Group](https://rpg.ifi.uzh.ch/) (University of Zurich). Keywords: event-based vision, event-based reconstruction, event representations.
 - [Guillermo Gallego](https://sites.google.com/view/guillermogallego/research/event-based-vision?authuser=0) (Technische Universitat Berlin). Keywords: event-based vision, event representations, contrast maximization, structured light.
+- [Peter Eisert / Vision and Imaging Technologies](https://iphome.hhi.de/eisert/index.htm) (Fraunhofer HHI and Humboldt University of Berlin). Keywords: event-based structured light, spatial augmented reality, 3D acquisition, computational imaging.
 - [Suliana Manley / Laboratory of Experimental Biophysics](https://www.epfl.ch/labs/leb/) (EPFL). Keywords: microscopy, event-driven acquisition, single-molecule localization microscopy.
+- [Tobi Delbruck / INI Sensors Group](https://sensors.ini.ch/) (University of Zurich and ETH Zurich). Keywords: dynamic vision sensors, event-camera hardware, DAVIS sensors, neuromorphic sensory processing.
+
+## Oceania
+- [Robert Mahony / Systems Theory and Robotics Group](https://anu-str.github.io/) (Australian National University). Keywords: event-camera image reconstruction, asynchronous event processing, event-frame fusion, robotic vision.
 
 [Back to Top](#toc)
 
