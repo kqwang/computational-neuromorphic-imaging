@@ -19,6 +19,8 @@ Quick search by "Ctrl + F" with the following keywords:
 - [Companies, platforms, and sensors](#companies)
 - [Workshops, courses, and tutorials](#workshops)
 - [Software and tools](#software)
+- [Datasets](#datasets)
+- [Simulators and synthetic data generators](#simulators)
 - [Research papers](#papers)
   - [Foundations and sensor models](#foundations-papers)
   - [Computational neuromorphic imaging paradigm](#paradigm-papers)
@@ -104,15 +106,26 @@ Please use the following guidelines:
 
 Product availability and sensor generations change quickly; links should be verified before purchase or citation.
 
-## Companies working on event-based vision
+## Event-sensor and silicon developers
 
 - [iniVation AG](https://inivation.com/): commercial event-based neuromorphic vision company spun out of the Institute of Neuroinformatics ecosystem.
 - [iniLabs AG](https://inilabs.com/): neuromorphic technologies and research-oriented hardware/software support.
 - [Prophesee](https://www.prophesee.ai/): event-based vision sensor and software company.
 - [Sony Semiconductor Solutions](https://www.sony-semicon.com/en/products/is/industry/evs.html): image-sensor manufacturer developing event-based vision sensors with Prophesee.
-- [Samsung](https://www.samsung.com/): developer of dynamic vision sensor prototypes and event-based vision technologies reported in the literature.
-- [Insightness AG](http://www.insightness.com/): developer of Silicon Eye event-sensor technology; status and product availability should be verified.
 - [CelePixel](https://www.celepixel.com/): developer of CeleX dynamic vision sensor platforms; status and product availability should be verified.
+- [Samsung](https://www.samsung.com/): developer of dynamic vision sensor prototypes and event-based vision technologies reported in the literature; status and product availability should be verified.
+- [Insightness AG](http://www.insightness.com/): developer of Silicon Eye event-sensor technology; status and product availability should be verified.
+
+## Camera platforms and evaluation kits
+
+- [iniVation event cameras](https://inivation.com/solutions/cameras/): DAVIS, DVXplorer, and related event-camera platforms used widely in event-based vision experiments.
+- [Prophesee evaluation kits](https://www.prophesee.ai/event-based-evaluation-kits/): packaged event-camera evaluation kits and software for Prophesee sensor generations.
+- [Sony IMX636 event-based vision sensor](https://www.sony-semicon.com/en/products/is/industry/evs.html): stacked event-based vision sensor developed with Prophesee.
+- [CenturyArks SilkyEvCam](https://centuryarks.com/en/about-evcam/): event-camera products and modules based on Prophesee sensor technology.
+- [IDS uEye EVS cameras](https://en.ids-imaging.com/ueye-evs-cameras.html): industrial event-based cameras using Sony/Prophesee event-based vision sensors.
+
+## Industrial and research deployment organizations
+
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/): optical sensor systems and industrial neuromorphic sensing applications.
 
 [Back to Top](#toc)
@@ -140,12 +153,71 @@ Product availability and sensor generations change quickly; links should be veri
 
 This section lists general-purpose event-camera tools that can support CNI experiments. Domain-specific code is linked next to the corresponding paper when available.
 
+## SDKs and camera drivers
+
 - [OpenEB](https://github.com/prophesee-ai/openeb): open-source event-based vision software from Prophesee.
+- [dv-processing](https://docs.inivation.com/software/dv-processing.html): C++ and Python processing library for iniVation event-camera data.
+- [libcaer](https://gitlab.com/inivation/dv/libcaer): minimal C library for accessing, configuring, and streaming AER data from compatible event sensors.
 - [jAER](http://jaerproject.org/): Java Address-Event Representation project for event processing.
+
+## File I/O and conversion
+
 - [AEDAT Tools](https://github.com/simbamford/AedatTools/): MATLAB and Python tools for working with AEDAT files.
 - [Loris](https://github.com/neuromorphic-paris/loris): Python package for reading neuromorphic camera files.
-- [Tonic](https://github.com/neuromorphs/tonic): event dataset and transformation library.
+- [expelliarmus](https://github.com/fabhertz95/expelliarmus): Python library for decoding Prophesee DAT, EVT2, and EVT3 event files into NumPy arrays.
+
+## Streaming and real-time pipelines
+
 - [AEStream](https://github.com/norse/aestream/): streaming tools for address-event representations from iniVation and Prophesee cameras.
+- [Faery](https://aestream.github.io/faery/): event-stream file conversion, inspection, visualization, and streaming utilities.
+
+## Dataset and machine-learning utilities
+
+- [Tonic](https://github.com/neuromorphs/tonic): event dataset and transformation library.
+- [Event Camera Utility Library](https://timostoff.github.io/ecul): PyTorch-oriented utilities for event-camera data loading, representations, and augmentation.
+
+[Back to Top](#toc)
+
+****
+
+<a name="datasets"></a>
+
+# Datasets
+
+This section highlights public datasets that are closely related to CNI. General event-vision datasets are useful background resources, but priority is given here to datasets tied to optical measurement, physical reconstruction, microscopy, structured light, flow visualization, and polarization imaging.
+
+## Structured light and depth
+
+- [ESL: Event-based Structured Light dataset](http://rpg.ifi.uzh.ch/esl.html): event-camera structured-light data for depth and 3D reconstruction.
+
+## Schlieren and flow
+
+- [Event-based Background-Oriented Schlieren dataset](https://doi.org/10.14279/depositonce-19492): event-camera data for Schlieren-style flow visualization and refractive-index-gradient measurement. [Code](https://github.com/tub-rip/event_based_bos)
+
+## Microscopy
+
+- [Neuromorphic Localisation Microscopy example data](https://github.com/neuromorphicmicroscopy/Neuromorphic-Localisation-Microscopy): event-camera microscopy data and analysis code for nanoscale localization microscopy.
+
+## Polarization imaging
+
+- [Events-to-Polarization Dataset](https://github.com/SensorsINI/e2p): PDAVIS event data and code for polarization reconstruction.
+- [ESfP: Event-based Shape from Polarization dataset](https://rpg.ifi.uzh.ch/esfp.html): event-camera polarization data for surface-normal and shape reconstruction.
+
+[Back to Top](#toc)
+
+****
+
+<a name="simulators"></a>
+
+# Simulators and synthetic data generators
+
+This section lists event-camera simulators and event-synthesis tools that can support CNI method development, ablation studies, and synthetic optical experiments.
+
+- [ESIM: an Open Event Camera Simulator](https://github.com/uzh-rpg/rpg_esim): event-camera simulator for generating asynchronous events from rendered image streams.
+- [The Event-Camera Dataset and Simulator](https://rpg.ifi.uzh.ch/davis_data.html): University of Zurich event-camera data and simulator resources for event-based vision.
+- [rpg_vid2e](https://github.com/uzh-rpg/rpg_vid2e): tool for converting video datasets into synthetic event-camera datasets.
+- [v2e](https://github.com/SensorsINI/v2e): video-to-events simulator for generating realistic DVS events from conventional video frames.
+- [DVS-Voltmeter](https://github.com/Lynn0306/DVS-Voltmeter): stochastic process-based event simulator for modeling dynamic vision sensor behavior.
 
 [Back to Top](#toc)
 
