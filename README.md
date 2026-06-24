@@ -33,6 +33,7 @@ Quick search by "Ctrl + F" with the following keywords:
     - [Laser speckle analysis](#accumulation-speckle-papers)
     - [Single-molecule localization microscopy](#accumulation-smlm-papers)
     - [Light-field microscopy](#accumulation-lfm-papers)
+    - [Ultrafast biological microscopy](#accumulation-biomicroscopy-papers)
     - [Structured light and surface metrology](#accumulation-surface-papers)
     - [Flow, Schlieren, and velocimetry](#accumulation-flow-papers)
     - [Neuromorphic holography](#accumulation-holography-papers)
@@ -319,6 +320,12 @@ This category is reserved for papers that explicitly define, name, or consolidat
 ### Light-field microscopy
 
 - R. Guo et al., [EventLFM: Event camera integrated Fourier light field microscopy for ultrafast 3D imaging](https://doi.org/10.1038/s41377-024-01502-5), Light: Science and Applications, 2024.
+
+<a name="accumulation-biomicroscopy-papers"></a>
+
+### Ultrafast biological microscopy
+
+- R. Guo et al., [Dual-channel event microscopy for ultrafast biological imaging](https://doi.org/10.1073/pnas.2531386123), Proceedings of the National Academy of Sciences, 2026.
 
 <a name="accumulation-surface-papers"></a>
 
