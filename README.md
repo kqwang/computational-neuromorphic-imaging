@@ -305,6 +305,8 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - Z. Ge et al., [Event-based laser speckle correlation for micro motion estimation](https://doi.org/10.1364/OL.430419), Optics Letters, 2021.
 - Z. Ge et al., [Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948), Optics Express, 2022.
 - Y. Cao, S. Zhu, and E. Y. Lam, [Neuromorphic dynamic speckle pattern synthesis for imaging through scattering media](https://doi.org/10.1117/12.3073637), Advanced Optical Imaging Technologies VIII, 2025.
+- Z. Gao et al., [Quantitative laser speckle blood flow imaging using event cameras](https://doi.org/10.1007/s11431-025-3143-8), Science China Technological Sciences, 2026.
+- I. Lihacova et al., [Event-based laser speckle imaging for real-time monitoring of fungal activity under chemical stress](https://doi.org/10.1364/BOE.590363), Biomedical Optics Express, 2026.
 
 <a name="accumulation-smlm-papers"></a>
 
@@ -325,7 +327,12 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 ### Ultrafast biological microscopy
 
+- I. Tsilikas et al., [Photonic neuromorphic accelerators for event-based imaging flow cytometry](https://doi.org/10.1038/s41598-024-75667-9), Scientific Reports, 2024.
+- C. Su et al., [Inter-event interval microscopy for event cameras](https://doi.org/10.1364/PRJ.562782), Photonics Research, 2025.
+- E. Dotan et al., [Rare cell classification using label-free imaging flow cytometry via motion-sensitive-triggered interferometry](https://doi.org/10.1039/D5LC00634A), Lab on a Chip, 2025.
+- G. Moustakas et al., [Neuromorphic imaging flow cytometry combined with adaptive recurrent spiking neural networks](https://doi.org/10.1364/OE.564050), Optics Express, 2025.
 - R. Guo et al., [Dual-channel event microscopy for ultrafast biological imaging](https://doi.org/10.1073/pnas.2531386123), Proceedings of the National Academy of Sciences, 2026.
+- J. Yoon et al., [Event-based optical imaging and reconstruction of in vivo neuronal and vascular dynamics](https://doi.org/10.1186/s43074-026-00240-8), PhotoniX, 2026.
 
 <a name="accumulation-surface-papers"></a>
 
@@ -340,6 +347,8 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - H. Wang et al., [Enhancing event-based structured light imaging with a single frame](https://doi.org/10.1109/MFI55806.2022.9913845), MFI, 2022.
 - Y. Li et al., [Robust 3D measurement based on neuromorphic event-driven Fourier transform profilometry](https://doi.org/10.2139/ssrn.4204360), SSRN Electronic Journal, 2022.
 - W. Morgenstern et al., [X-maps: Direct depth lookup for event-based structured light systems](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Morgenstern_X-Maps_Direct_Depth_Lookup_for_Event-Based_Structured_Light_Systems_CVPRW_2023_paper.pdf), CVPR Workshops, 2023. [Project and code](https://fraunhoferhhi.github.io/X-maps/)
+- X. Lu et al., [SGE: structured light system based on Gray code with an event camera](https://doi.org/10.1364/OE.538396), Optics Express, 2024.
+- J. Fu et al., [Boosting event-based structured light via cyclic spatial coding](https://doi.org/10.1364/OL.575121), Optics Letters, 2025.
 
 <a name="accumulation-flow-papers"></a>
 
@@ -347,6 +356,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 - S. Shiba, F. Hamann, Y. Aoki, and G. Gallego, [Event-based background-oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188), IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [Project and code](https://github.com/tub-rip/event_based_bos)
 - L. Maya et al., [An evaluation of event-based cameras for particle image velocimetry](https://doi.org/10.1007/s00348-025-04127-5), Experiments in Fluids, 2025.
+- C. Willert, [Event-based particle image velocimetry for high-speed flows](https://doi.org/10.1088/1361-6501/ade27a), Measurement Science and Technology, 2025.
 
 <a name="accumulation-holography-papers"></a>
 
@@ -355,6 +365,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - Z. Ge et al., [Event-driven neuromorphic holography for dynamic particle imaging](https://doi.org/10.1364/OL.548088), Optics Letters, 2025.
 - C. Wang et al., Motion-resolved event-based holography, Advanced Optical Imaging Technologies VIII, 2025.
 - C. Wang et al., [Differentiable event-based holography](https://doi.org/10.1364/DH.2025.DTu2C.3), Optica Imaging Congress, 2025.
+- D. Huang et al., [Event-guided microfluidic hologram deblurring via spatial-frequency learning](https://doi.org/10.1364/OE.581633), Optics Express, 2025.
 - I. Uchiyama et al., [Events meet phase-shifting digital holography: practical acquisition, theory, and algorithms](https://doi.org/10.1364/OE.584341), Optics Express, 2026.
 
 [Back to Top](#toc)
@@ -385,6 +396,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 - T. Takatani et al., [Event-based bispectral photometry using temporally modulated illumination](https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf), CVPR, 2021. [Project](https://cigl.iit.tsukuba.ac.jp/portfolio/event-based-bispectral-photometry)
 - H. Mei et al., [Deep polarization reconstruction with PDAVIS events](https://doi.org/10.1109/CVPR52729.2023.02121), CVPR, 2023. [Code](https://github.com/SensorsINI/e2p)
 - M. Muglikar, L. Bauersfeld, D. P. Moeys, and D. Scaramuzza, [Event-based shape from polarization](https://openaccess.thecvf.com/content/CVPR2023/html/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.html), CVPR, 2023. [Project, code, and dataset](https://rpg.ifi.uzh.ch/esfp.html)
+- R. G. Baird, A. Majumder, and R. Menon, [Dynamic spectral fluorescence microscopy via event-based and CMOS image-sensor fusion](https://doi.org/10.1364/OE.545667), Optics Express, 2025.
 
 <a name="raw-surface-papers"></a>
 
@@ -392,6 +404,7 @@ This category is reserved for papers that explicitly define, name, or consolidat
 
 - S. Zhu et al., [Efficient non-line-of-sight tracking with computational neuromorphic imaging](https://doi.org/10.1364/OL.530066), Optics Letters, 2024.
 - S. Zhu et al., [Ultrafast dynamic defect inspection with computational neuromorphic imaging](https://doi.org/10.1002/advs.202510338), Advanced Science, 2025.
+- A. Dashpute et al., [Accurate and fast event-based shape measurement of mixed reflectance scenes](https://doi.org/10.1038/s41467-026-72254-6), Nature Communications, 2026.
 
 <a name="raw-highdim-papers"></a>
 
