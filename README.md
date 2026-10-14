@@ -71,7 +71,7 @@ Please use the following guidelines:
 
 <a name="groups"></a>
 
-# People and groups
+# People and groups (Due to my limited capabilities, if you find any omissions, please submit updates via pull requests.)
 
 (Initial list; in alphabetical order by group lead or first listed researcher when practical.)
 
