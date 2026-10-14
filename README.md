@@ -74,28 +74,49 @@ Please use the following guidelines:
 # People and groups 
 **(Notice something missing? We'd love your help keeping this updated.)**
 
-(In alphabetical order by group lead or first listed researcher.)
+(Focused on event cameras in optical image formation, computational photography, microscopy, physical measurement, and closely related image reconstruction; in alphabetical order by group lead or first listed researcher.)
 
 ## Asia
 - [Adrian Stern](https://in.bgu.ac.il/en/engn/electrop/Pages/ResearchersAndResearchAreas.aspx) (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
 - [Boxin Shi / Camera Intelligence Lab](https://camera.pku.edu.cn/) (Peking University). Keywords: computational photography, neuromorphic vision sensors, event focal stack, event-aided imaging.
 - [Chetan Singh Thakur](https://eecs.iisc.ac.in/people/chetan-singh-thakur/) (Indian Institute of Science). Keywords: neuromorphic engineering, event-based sensing, neuromorphic localization microscopy.
 - [Edmund Y. Lam / Imaging Systems Laboratory](https://isl.eee.hku.hk/) (The University of Hong Kong). Keywords: computational imaging, neuromorphic imaging, event-based holography, quantum sensing, laser speckle imaging, wavefront sensing.
+- [Kaushik Mitra / Computational Imaging Lab](https://www.ee.iitm.ac.in/comp_photolab/) (Indian Institute of Technology Madras). Keywords: event-assisted image and 3D reconstruction, light-field imaging, lensless imaging, computational photography.
+- [Keita Takahashi / Fujii Laboratory](https://www.fujii.nuee.nagoya-u.ac.jp/~takahasi/Research/EventLF/index.html) (Nagoya University). Keywords: coded-aperture event-camera light-field acquisition and reconstruction.
+- [OpenImagingLab](https://openimaginglab.github.io/) (Shanghai AI Laboratory). Keywords: event-assisted HDR photography, RGB-event fusion, camera-system design.
+- [Qian Zheng / State Key Laboratory of Brain-Machine Intelligence](https://q-zh.github.io/) (Zhejiang University). Keywords: event-assisted HDR radiance fields, event-based scene reconstruction, image synthesis.
+- [Yasuhiro Mukaigawa / Optical Media Interface Lab](https://omilab.naist.jp/intro/en.html) (Nara Institute of Science and Technology). Keywords: event-camera light-field measurement, computational photography, optical sensing.
 - [Yoshimitsu Aoki / Aoki Media Sensing Lab](https://aoki-medialab.jp/research-en/) (Keio University). Keywords: event-based Schlieren imaging, flow visualization, event-camera optical measurement.
+- [Yong Ju Jung / CVIP Lab](https://sites.google.com/site/gachoncvip/) (Gachon University). Keywords: event-stereo depth reconstruction, event-assisted deblurring, computational photography.
+- [You Zhou / Pho-FreeU Lab](https://zhouyou-nju.github.io/) (Nanjing University). Keywords: event-camera fluorescence microscopy, inter-event-interval intensity reconstruction, computational microscopy.
+- [Zhiwei Xiong and Yueyi Zhang / VIDAR](https://vidar-ustc.github.io/3D-event/event.html) (University of Science and Technology of China). Keywords: event-based structured light, high-speed 3D reconstruction, spatiotemporal depth coding.
 
 ## Americas
+- [Adithya Pediredla / Rendering and Imaging Science Lab](https://risclab-dartmouth.org/) (Dartmouth College). Keywords: event-based light-field imaging, shutter-modulated event cameras, computational 3D imaging.
+- [Arto Nurmikko / N3 Lab](https://nurmikko.engin.brown.edu/publications/) (Brown University). Keywords: event-camera optical imaging through scattering media, motion-silhouette reconstruction, neuromorphic sensing.
+- [Christopher Metzler / Intelligent Sensing Lab](https://intelligent-sensing.github.io/) (University of Maryland). Keywords: shutter-modulated event imaging, event-based wavefront sensing, computational photography.
+- [Florian Willomitzer / Computational 3D Imaging and Measurement Lab](https://3dim.optics.arizona.edu/) (University of Arizona). Keywords: event-based 3D shape measurement, optical metrology, computational imaging.
+- [Giovanni Beltrame / MIST Lab](https://mistlab.ca/) (Polytechnique Montreal). Keywords: event-camera RGB-D sensing, active structured light, colour and depth reconstruction.
+- [Ioannis Gkioulekas / Computational Imaging Group](https://imaging.cs.cmu.edu/igkioule/) (Carnegie Mellon University). Keywords: acousto-optic structured light with event cameras, high-speed 3D scanning, computational imaging.
 - [Laura Waller / Computational Imaging Lab](https://www.laurawaller.com/) (University of California, Berkeley). Keywords: computational imaging, event-camera image reconstruction, noise-enabled imaging.
 - [Lei Tian / Computational Imaging Systems Lab](https://www.bu.edu/eng/profile/lei-tian/) (Boston University). Keywords: computational microscopy, light-field microscopy, event-based microscopy.
 - [Oliver Cossairt / Computational Photography Lab](https://compphotolab.northwestern.edu/) (Northwestern University). Keywords: computational photography, 3D scanning, event-camera 3D shape measurement, computational imaging.
+- [Sanjeev Koppal / FOCUS Lab](https://focus.ece.ufl.edu/research/2023/event-dual-photo/) (University of Florida). Keywords: event-based dual photography, transparent-scene 3D reconstruction, active optical sensing.
+- [Visual Computing and Augmented Intelligence Lab](https://www.visualcomputing.ai/publications/event-fields-capturing-light-fields-at-high-speed-resolution-and-dynamic-range) (University of North Carolina at Chapel Hill). Keywords: event-based light-field capture, high-dynamic-range imaging, computational optics.
 
 ## Europe
+- [Christian Cierpka / Engineering Thermodynamics Group](https://www.tu-ilmenau.de/ebi) (Technische Universitat Ilmenau). Keywords: event-based particle tracking velocimetry, optical flow measurement.
+- [Christian Willert / Engine Measurement Techniques](https://www.dlr.de/de/at/ueber-uns/abteilungen/triebwerksmesstechnik) (German Aerospace Center). Keywords: event-based imaging velocimetry, laser-illuminated particle imaging, flow-field measurement.
 - [Davide Scaramuzza / Robotics and Perception Group](https://rpg.ifi.uzh.ch/) (University of Zurich). Keywords: event-based vision, event-based reconstruction, event representations.
 - [Guillermo Gallego](https://sites.google.com/view/guillermogallego/research/event-based-vision?authuser=0) (Technische Universitat Berlin). Keywords: event-based vision, event representations, contrast maximization, structured light.
+- [Ignacio Izeddin / Single-Molecule Biophotonics](https://www.institut-langevin.espci.fr/ignacio_izeddin) (Institut Langevin, ESPCI Paris–PSL). Keywords: event-sensor single-molecule localization microscopy, super-resolution fluorescence imaging.
 - [Peter Eisert / Vision and Imaging Technologies](https://iphome.hhi.de/eisert/index.htm) (Fraunhofer HHI and Humboldt University of Berlin). Keywords: event-based structured light, spatial augmented reality, 3D acquisition, computational imaging.
+- [Stefano Discetti / Experimental Aerodynamics and Propulsion Lab](https://aero.uc3m.es/eap-lab/) (Universidad Carlos III de Madrid). Keywords: event-based imaging velocimetry, optical flow diagnostics, real-time flow-field measurement.
 - [Suliana Manley / Laboratory of Experimental Biophysics](https://www.epfl.ch/labs/leb/) (EPFL). Keywords: microscopy, event-driven acquisition, single-molecule localization microscopy.
 - [Tobi Delbruck / INI Sensors Group](https://sensors.ini.ch/) (University of Zurich and ETH Zurich). Keywords: dynamic vision sensors, event-camera hardware, DAVIS sensors, neuromorphic sensory processing.
 
 ## Oceania
+- [Kishan Dholakia / Centre of Light for Life](https://researchers.adelaide.edu.au/profile/kishan.dholakia) (Adelaide University). Keywords: event-camera brightfield microscopy, particle and cell-motion tracking, optical imaging.
 - [Robert Mahony / Systems Theory and Robotics Group](https://anu-str.github.io/) (Australian National University). Keywords: event-camera image reconstruction, asynchronous event processing, event-frame fusion, robotic vision.
 
 [Back to Top](#toc)
