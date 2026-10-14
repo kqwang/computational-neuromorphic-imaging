@@ -73,6 +73,7 @@ Please use the following guidelines:
 
 # People and groups 
 **(Notice something missing? We'd love your help keeping this updated.)**
+
 (In alphabetical order by group lead or first listed researcher.)
 
 ## Asia
