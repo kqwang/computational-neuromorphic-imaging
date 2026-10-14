@@ -71,9 +71,9 @@ Please use the following guidelines:
 
 <a name="groups"></a>
 
-# People and groups (Due to my limited capabilities, if you find any omissions, please submit updates via pull requests.)
-
-(Initial list; in alphabetical order by group lead or first listed researcher when practical.)
+# People and groups 
+**(Notice something missing? We'd love your help keeping this updated.)**
+(In alphabetical order by group lead or first listed researcher.)
 
 ## Asia
 - [Adrian Stern](https://in.bgu.ac.il/en/engn/electrop/Pages/ResearchersAndResearchAreas.aspx) (Ben-Gurion University of the Negev). Keywords: 4D event imaging, computational optics, holography.
